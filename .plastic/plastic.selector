@@ -1,0 +1,4 @@
+repository "SanalMuzeGezi/SanalMuzeGezi@18967868138662@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 79dd9b24bba01f343b553496694b82ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soilParticlePrefab: {instanceID: 0}
+  - digSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
